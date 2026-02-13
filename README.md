@@ -1,2 +1,6 @@
 # backup-scripts
-backup
+
+Scripts d'automatisation des sauvegardes système.
+
+## Configuration
+Voir config/ pour les configurations serveurs.
